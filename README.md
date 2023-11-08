@@ -21,9 +21,10 @@ El modelo de predicción se basa en una serie de características extraídas de 
 ## Estructura del Proyecto
 
 El repositorio está organizado de la siguiente manera:
-- `books.csv`: contiene los conjuntos de datos utilizados para entrenar y evaluar el modelo.
+- `books.csv`: dataset original.
+- `data_books.csv`: contiene los conjuntos de datos utilizados para entrenar y evaluar el modelo.
 - `Modelo de Predicción de Rating de Libros.ipynb`: Jupyter Notebook que detalla el proceso de ETL, EDA, entrenamiento, evaluación y visualización de resultados.
-- `modelo entrenado.pkl`: archivo 'pickle' con el modelo entrenado.
+- `modelo_regresion.pkl`: archivo 'pickle' con el modelo entrenado.
 - `src`: carpeta con imágenes.
 - `README.md`: Documentación detallada sobre el proyecto.
 - `requirements.txt`: librerías usadas en el proyecto
