@@ -1,4 +1,4 @@
-# # Modelo de Predicción de Rating de Libros
+# Modelo de Predicción de Rating de Libros
 
 ![](https://github.com/federicomolina86/ModeloPredictivoLibros/blob/main/src/libros.jpg)
 
