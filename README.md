@@ -11,12 +11,12 @@ El propósito principal de este proyecto es proporcionar a los usuarios una herr
 ## Características
 
 El modelo de predicción se basa en una serie de características extraídas de los libros, que podrían incluir (aunque no se limitan a) lo siguiente:
-- Título del libro
-- Autor
-- Idioma del libro
-- Reseñas y calificaciones anteriores
-- Páginas del libro
-- Fecha de publicación
+- Título del libro.
+- Autor.
+- Idioma del libro.
+- Reseñas y calificaciones anteriores.
+- Páginas del libro.
+- Fecha de publicación.
 
 ## Estructura del Proyecto
 
@@ -29,13 +29,13 @@ El repositorio está organizado de la siguiente manera:
 - `app_streamlit.py`: script de Python con el código del deploy en Streamlit.
 - `src`: carpeta con imágenes.
 - `README.md`: Documentación detallada sobre el proyecto.
-- `requirements.txt`: librerías usadas en el proyecto
+- `requirements.txt`: librerías usadas en el proyecto.
 
 ## Requisitos
 
 Para ejecutar el código o utilizar el modelo, se requiere:
 - Python
-- Bibliotecas Python: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn. (se especifican en el archivo `requirements.txt`)
+- Bibliotecas Python: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Streamlit, Joblit (se especifican en el archivo `requirements.txt`).
 
 
 ![](https://github.com/federicomolina86/ModeloPredictivoLibros/blob/main/src/Comparaci%C3%B3n%20valores%20reales%20y%20predichos.png)
