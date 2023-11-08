@@ -1,5 +1,7 @@
 # # Modelo de Predicción de Rating de Libros
 
+![](https://github.com/federicomolina86/Proyecto-MLOps-Engineer/blob/main/src/Steam_logo.jpg)
+
 Este proyecto consiste en la creación de un modelo de predicción para estimar el rating de libros basado en diferentes características y variables. El modelo utiliza técnicas de aprendizaje automático para predecir el rating que un libro podría recibir.
 
 ## Objetivo
