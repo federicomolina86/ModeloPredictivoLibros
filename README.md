@@ -34,4 +34,7 @@ Para ejecutar el código o utilizar el modelo, se requiere:
 - Python
 - Bibliotecas Python: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn. (se especifican en el archivo `requirements.txt`)
 
-![](https://github.com/federicomolina86/ModeloPredictivoLibros/blob/main/src/Comparación valores reales y predichos.png) ![](https://github.com/federicomolina86/ModeloPredictivoLibros/blob/main/src/libros con más reseñas.png)
+
+![](https://github.com/federicomolina86/ModeloPredictivoLibros/blob/main/src/Comparaci%C3%B3n%20valores%20reales%20y%20predichos.png)
+
+![](https://github.com/federicomolina86/ModeloPredictivoLibros/blob/main/src/Libros%20con%20m%C3%A1s%20rese%C3%B1as.png)
