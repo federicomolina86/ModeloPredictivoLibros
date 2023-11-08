@@ -25,6 +25,8 @@ El repositorio está organizado de la siguiente manera:
 - `data_books.csv`: contiene los conjuntos de datos utilizados para entrenar y evaluar el modelo.
 - `Modelo de Predicción de Rating de Libros.ipynb`: Jupyter Notebook que detalla el proceso de ETL, EDA, entrenamiento, evaluación y visualización de resultados.
 - `modelo_regresion.pkl`: archivo 'pickle' con el modelo entrenado.
+- `modelo.py`: script de Python con el código del modelo de predicción
+- `app_streamlit.py`: script de Python con el código del deploy en Streamlit
 - `src`: carpeta con imágenes.
 - `README.md`: Documentación detallada sobre el proyecto.
 - `requirements.txt`: librerías usadas en el proyecto
